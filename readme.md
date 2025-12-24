@@ -1,6 +1,6 @@
 # About ME
 
-# Hi 👋, I'm Shriya Sarod
+# Hi 👋, I'm Shriya Sarode
 
 🎓 A passionate fresher with interest in **Web Development and Java**  
 💻 I love building simple, clean, and user-friendly projects  

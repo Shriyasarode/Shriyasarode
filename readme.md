@@ -4,7 +4,7 @@
 
 🎓 A passionate fresher with interest in **Web Development and Java**  
 💻 I love building simple, clean, and user-friendly projects  
-🌱 Currently learning and improving my ** Java Full Stack Development** skills
+🌱 Currently learning and improving my **Java Full Stack Development** skills
 
 ---
 
